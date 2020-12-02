@@ -42,7 +42,7 @@ echo "Hello World !"
 
 echo 命令用于向窗口输出文本。
 
-## 运行 Shell 脚本有两种方法：
+## 运行 Shell 脚本有两种方法
 
 **1、作为可执行程序**
 
@@ -168,7 +168,7 @@ myUrl="https://www.runoob.com"
 unset variable_name
 ```
 
-变量被删除后不能再次使用。unset 命令不能删除只读变量。
+变量被删除后不能再次使用。**unset 命令不能删除只读变量。**
 
 **实例**
 
